@@ -36,6 +36,7 @@
         "grunt-usemin": "0.1.11",
         "load-grunt-tasks": "3.5.0",
         "q": "1.4.1",
+        "rewire": "1.1.2",
         "semver": "^4.1.0",
         "xmldoc": "^0.1.2",
         "grunt-cleanempty": "1.0.3"
